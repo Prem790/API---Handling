@@ -1,4 +1,4 @@
-Handle APIs Like a Pro in React.js | Custom React Query | Axios | Race Condition
+
 
 Introduction 
 Welcome to the "Handle APIs Like a Pro in React.js" project! This project aims to demonstrate how to efficiently manage API calls, handle loading and error states, and address race conditions in a React.js application. By leveraging Axios for HTTP requests and creating custom React Query hooks, we can achieve a robust and user-friendly application.
